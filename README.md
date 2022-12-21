@@ -8,11 +8,11 @@ Para otimizar e guiar meu processo de estudo, resolvi utilizar os conhecimentos 
 
 <br>
 
-<img align="center" width="700" height="800" src="https://github.com/DirceuSilvestre/Meu-Trajeto/blob/main/Processo%20Estudo%20Ciencia%20de%20Dados.png" />
+<img align="center" width="700" height="800" src="https://github.com/DirceuSilvestre/Meu-Trajeto/blob/main/Imagens/Processo%20Estudo%20Ciencia%20de%20Dados.png" />
 
 <br>
 
-![Documento da descrição simplificada de cada atividade](https://github.com/DirceuSilvestre/Meu-Trajeto/blob/main/Processo%20Estudo%20Ci%C3%AAncia%20de%20Dados.pdf)
+![Documento da descrição simplificada de cada atividade](https://github.com/DirceuSilvestre/Meu-Trajeto/blob/main/Arquivos/Processo%20Estudo%20Ci%C3%AAncia%20de%20Dados.pdf)
 
 <br>
 
@@ -30,7 +30,7 @@ Cientista de Dados Júnior
 
 ## Pesquisar Trilhas
 
-![Resultados da Pesquisa](https://github.com/DirceuSilvestre/Meu-Trajeto/blob/main/Trilhas%20Pesquisadas.txt) 
+![Resultados da Pesquisa](https://github.com/DirceuSilvestre/Meu-Trajeto/blob/main/Arquivos/Trilhas%20Pesquisadas.txt) 
 
 <br>
 
