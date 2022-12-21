@@ -1,0 +1,87 @@
+Professor da Graduação
+
+	Algebra Linear
+	Calculo
+	Livro Introdução a Mineração de Dados do Tan Pang-Ning
+	Curso de Machine Learning do Andrew no Coursera
+
+
+Minha Pesquisa Anterior
+
+	Algebra Linear
+	Calculo
+	Git/Github
+	Python
+	SQL / NoSQL
+	Estatística
+	AWS
+
+
+OpenIA GPT-3
+
+	Base Matemática
+	Estatística
+	Linguagens de Programação
+	Banco de Dados
+	Análise de Dados
+	Machine Learning
+	Big Data
+
+
+Vídeo 1
+
+	Python
+	Machine Learning
+	Técnicas Storytelling
+	Estatística
+	SQL
+	Negócios para CD
+
+
+Vídeo 2
+
+	Estatística
+	Machine Learning
+	Mineração
+	Tratar Dados
+	Analise para perguntar e responder 
+	R
+	Python
+	SQL
+	Exploração
+	Visualização
+	Visão Analítica
+
+
+Vídeo 3
+
+	SQL / NoSQL
+	Big Data
+	Regressão / Clusterização
+	SAS SPSS
+	R
+	Análise
+	Mineração
+	Python
+	Tecnologias para IA
+	Machine Learning e Deep
+	
+
+Vídeo 4
+	
+	Capacidade Analítica
+	Repartir o Problema
+	Formular Hipóteses
+	Perguntar e Responder com e aos Dados
+	Comunicação / Storytelling
+	Etapas de um Projeto
+
+
+Vídeo 5
+	
+	Python
+	Pandas
+	Estatística
+	Machine Learning
+	Fazer Projeto
+	Deep Learning		
