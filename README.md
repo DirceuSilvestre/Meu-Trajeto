@@ -13,3 +13,40 @@ Para otimizar e guiar meu processo de estudo, resolvi utilizar os conhecimentos 
 <br>
 
 ![Documento da descrição simplificada de cada atividade](https://github.com/DirceuSilvestre/Meu-Trajeto/blob/main/Processo%20Estudo%20Ci%C3%AAncia%20de%20Dados.pdf)
+
+<br>
+
+<h1 align="center">
+Processo de Estudo para Ciência de Dados
+</h1>
+
+<br>
+
+## Definir Escopo
+
+Cientista de Dados Júnior
+
+<br>
+
+## Pesquisar Trilhas
+
+![Resultados da Pesquisa](https://github.com/DirceuSilvestre/Meu-Trajeto/blob/main/Trilhas%20Pesquisadas.txt) 
+
+<br>
+
+## Separar Resultados
+
+* Linguagem -> Python
+* Biblioteca -> NumPy, Pandas, Matplotlib, Scikit-learn, TensowFlow
+* FrameWork -> Apache Spark
+* Área de Estudo -> Cálculo, Álgebra Linear, Estatística, Banco de Dados
+* Livro -> Storytelling com Dados
+* Ferramenta -> Google Colab
+
+<br>
+
+## Eliminar Conhecimento Prévio
+
+Python -> [Projeto1](https://github.com/DirceuSilvestre/Biblioteca-Algebra-Linear), [Projeto2](https://github.com/DirceuSilvestre/Algoritmo-Ampliacao-de-Imagens), [Projeto3](https://github.com/DirceuSilvestre/Processamento-de-Imagens-com-Algebra-Linear)
+
+
