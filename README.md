@@ -47,6 +47,21 @@ Cientista de Dados Júnior
 
 ## Eliminar Conhecimento Prévio
 
-Python -> [Projeto1](https://github.com/DirceuSilvestre/Biblioteca-Algebra-Linear), [Projeto2](https://github.com/DirceuSilvestre/Algoritmo-Ampliacao-de-Imagens), [Projeto3](https://github.com/DirceuSilvestre/Processamento-de-Imagens-com-Algebra-Linear)
+Python -> [Biblioteca Algebra Linear](https://github.com/DirceuSilvestre/Biblioteca-Algebra-Linear), [Algoritmo de Ampliação de Imagens](https://github.com/DirceuSilvestre/Algoritmo-Ampliacao-de-Imagens), [Processamento de Imagens com Algebra Linear](https://github.com/DirceuSilvestre/Processamento-de-Imagens-com-Algebra-Linear)
+NumPy, Pandas, Matplotlib -> [Iniciação Científica](https://github.com/DirceuSilvestre/Meu-Trajeto/blob/main/C%C3%B3digos/IniciacaoCientifica.ipynb), [Bootcamp Data Science da Unimed](https://github.com/DirceuSilvestre/Bootcamp-DS-Unimed)
+Cálculo, Álgebra Linear -> <img src="https://github.com/DirceuSilvestre/Meu-Trajeto/blob/main/Imagens/calculo1.png"/>
 
+<br>
+
+## Avaliar Resultados
+
+* Biblioteca -> Scickit-learn, TensorFlow
+* FrameWork -> Apache Spark
+* Área de Estudo -> Estatística, Banco de Dados
+* Livro -> Storytelling com Dados
+* Ferramenta -> Google Colab
+
+<br>
+
+## Planejar Fontes
 
