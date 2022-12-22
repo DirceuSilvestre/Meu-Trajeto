@@ -55,7 +55,7 @@ Cálculo, Álgebra Linear -> <img src="https://github.com/DirceuSilvestre/Meu-Tr
 
 ## Avaliar Resultados
 
-* Biblioteca -> Scickit-learn, TensorFlow
+* Biblioteca -> Scikit-learn, TensorFlow
 * FrameWork -> Apache Spark
 * Área de Estudo -> Estatística, Banco de Dados
 * Livro -> Storytelling com Dados
@@ -64,4 +64,9 @@ Cálculo, Álgebra Linear -> <img src="https://github.com/DirceuSilvestre/Meu-Tr
 <br>
 
 ## Planejar Fontes
+
+* Scikit-learn -> https://www.youtube.com/watch?v=QfYGV064mRI&list=PL5TJqBvpXQv4iEeU514g97c6ZdzlBHLj3
+* TensorFlow -> https://www.youtube.com/watch?v=JHsnHgb9hDo&list=PLyqOvdQmGdTR_X-BxOJCPIibdjQ_hXycV
+* Estatística -> https://cursos.letscode.com.br/curso-digital/604d0397-08a9-4dbd-9dbf-cb68a03cb29b/modulo/659f5188-4f3c-4502-9d23-f8e580c452de/topico/7ac3bfc6-03b7-48ec-8546-8a628010397a - https://classroom.udacity.com/courses/ud827/lessons/cd40a189-30a2-45fa-805e-cabfd60f5257/concepts/f20e6ee1-e579-4b8f-9913-f90a54beb00a
+* Banco de Dados -> https://www.youtube.com/watch?v=BRPUA0EgS4I&list=PL5TJqBvpXQv5n1N15kcK1m9oKJm_cv-m6
 
