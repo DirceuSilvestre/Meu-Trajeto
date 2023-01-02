@@ -1,3 +1,9 @@
+<h1 align="center">
+Processo de Estudo para Ciência de Dados
+</h1>
+
+<br>
+
 Para otimizar e guiar meu processo de estudo, resolvi utilizar os conhecimentos adquiridos em Engenharia de Software para criar um processo.
 
 <br>
@@ -9,11 +15,6 @@ Para otimizar e guiar meu processo de estudo, resolvi utilizar os conhecimentos 
 ![Documento da descrição simplificada de cada atividade](https://github.com/DirceuSilvestre/Meu-Trajeto/blob/main/Arquivos/Processo%20Estudo%20Ci%C3%AAncia%20de%20Dados.pdf)
 
 <br>
-
-<h1 align="center">
-Processo de Estudo para Ciência de Dados
-</h1>
-
 <br>
 
 ## Definir Escopo
